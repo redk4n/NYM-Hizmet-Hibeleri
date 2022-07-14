@@ -8,7 +8,7 @@ Bu uygulamaların Nym mixnet aracılığıyla kullanımı şu anda deneyseldir v
 
 Nasıl Başvurulur
 
-*Bu depoyu çatalla
+*Bu depoyu çatalla > (https://github.com/nymtech/service-grants)
 
 *service_grants/template.md içindeki gerekli bilgileri yeniden adlandırın ve doldurun
 
