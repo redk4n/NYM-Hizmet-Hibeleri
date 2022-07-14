@@ -7,8 +7,10 @@ Bu depo, önceden tanımlanmış bir etki alanı beyaz listesiyle bir ağ geçid
 Bu uygulamaların Nym mixnet aracılığıyla kullanımı şu anda deneyseldir ve belirli bir uygulamaya yönelik kullanım sayıları ve trafik miktarı hakkında istatistikler toplayacaktır. Toplanan başka veri yok - bu bir gizlilik sistemidir, dolayısıyla bizde buna sahip değiliz!.
 
 nasıl başvurulur
-Bu depoyu çatalla
-service_grants/template.md içindeki gerekli bilgileri yeniden adlandırın ve doldurun
-Bu depoya karşı bir PR oluşturun
-Grant@nymtech.net tarafından sizinle iletişime geçilmesini bekleyin
+
+*Bu depoyu çatalla
+*service_grants/template.md içindeki gerekli bilgileri yeniden adlandırın ve doldurun
+*Bu depoya karşı bir PR oluşturun
+*Grant@nymtech.net tarafından sizinle iletişime geçilmesini bekleyin
+
 27 Temmuz'dan sonra tüm başvuru sahipleriyle bir kararla iletişime geçilecektir.
